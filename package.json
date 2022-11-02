@@ -1,0 +1,11 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pocketbase serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
